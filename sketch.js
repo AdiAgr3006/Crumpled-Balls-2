@@ -34,7 +34,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background(220);
   paper.display();
   gs.display();
   side1.display();
